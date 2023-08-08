@@ -1,16 +1,28 @@
-# fit_pro
+# FIT INdex
 
-A new Flutter project.
+An Easy To use BMI Calculaor App
 
-## Getting Started
+Description:
+Welcome to Fit Index, the ultimate BMI calculator app designed to help you assess your body mass index (BMI) easily and accurately. With its user-friendly interface and comprehensive features, Fit Index empowers you to track and manage your health and fitness goals effortlessly.
 
-This project is a starting point for a Flutter application.
+Tech Stack
+1. Dart
+2. Flutter
+3. Android Studio
 
-A few resources to get you started if this is your first Flutter project:
+Key Features:
+1. BMI Calculation
+2. Personalized Results
+3. Intuitive User Interface
+4. Health Recommendations
+5. Share and Export
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+![introfit](https://github.com/Rahul-kumar999/FIT-Index/assets/115136027/305baaa3-3f53-4122-89b0-ec5eba2aa5ae)
+![dashboardfit](https://github.com/Rahul-kumar999/FIT-Index/assets/115136027/02bb9ee8-57ad-4683-9c8e-50a0f7babf2f)
+
+![dashboard5](https://github.com/Rahul-kumar999/FIT-Index/assets/115136027/9c228127-6090-4351-ae88-c583e8944eee)
+
+
+
